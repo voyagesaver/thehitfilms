@@ -1586,28 +1586,15 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/new-2000x2585.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/new-2000x2585-800x1034.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/yessir-2000x2664.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/yessir-2000x2664-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/treepopp-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/treepopp-2000x2000-800x800.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1621,6 +1608,19 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/3-copy-2000x3000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/3-copy-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/yessir-2000x2664.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/yessir-2000x2664-800x1066.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1755,7 +1755,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
