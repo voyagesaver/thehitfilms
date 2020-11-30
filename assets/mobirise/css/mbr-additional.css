@@ -1016,8 +1016,6 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rSfwfC4bSk {
-  padding-top: 105px;
-  padding-bottom: 135px;
   background-image: url("../../../assets/images/51079061-322651721697857-6229740343613456384-o-1080x718.jpg");
   background-position: right;
 }
@@ -1581,7 +1579,7 @@ section.lazy-placeholder:after {
   color: #f13c12;
 }
 .cid-shNCDTwvlS {
-  padding-top: 60px;
+  padding-top: 0px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
