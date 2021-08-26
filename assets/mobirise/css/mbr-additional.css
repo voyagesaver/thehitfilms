@@ -1937,6 +1937,18 @@ section.lazy-placeholder:after {
 .cid-shOsoFOo58 .mbr-gallery-filter ul {
   color: #232323;
 }
+#custom-html-1a {
+  /* Type valid CSS here */
+}
+#custom-html-1a div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-1a p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-sGSSomv6KX {
   background: #ffffff;
   padding-top: 60px;
